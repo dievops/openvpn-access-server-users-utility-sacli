@@ -1,0 +1,2 @@
+mail1@domain.com
+mail2@domain.com
